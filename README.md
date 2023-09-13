@@ -1,8 +1,1 @@
-# Market-Analysis
-
-The dataset is gotten for kaggle. 
-
-The dataset consists of many columns about customers and items they bought as well as wether they accepted a particular campaign or not.
-In this project i imported the csv file into mysql workbench, where i cleaned and maniputed the data so it would be ready for buisness decisions.
-
-A visualization was done and is attached.
+The dataset, sourced from Kaggle, encompasses a wealth of customer and purchase data, including responses to specific campaigns. In this project, I imported the CSV file into MySQL Workbench, conducted data cleaning and manipulation to prepare it for informed business decisions. Furthermore, I utilized Power BI for data visualization, enhancing the data's accessibility and utility for strategic purposes.
